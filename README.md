@@ -48,7 +48,7 @@ This project focuses on creating an **interactive Coffee Sales Dashboard** in Ex
    - Connected all slicers to pivot tables for **synchronized filtering**.
 
 ## Dashboard Design
-**![Coffee Sales Dashboard](Coffee Sales Dashboard.png)**
+![Coffee Sales Dashboard](Coffee Sales Dashboard.png)
 1. **Header Design:**
    - Added a **title bar** with a custom shape and background color.
    - Used **Calibri Bold** font for a professional look.
