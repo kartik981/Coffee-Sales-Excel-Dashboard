@@ -1,5 +1,6 @@
 # Coffee Sales Dashboard in Excel
 
+![Coffee Sales Dashboard](https://github.com/kartik981/Coffee-Sales-Excel-Dashboard/blob/1fc8523603aecbd68749b496693e21482d254904/Coffee%20Sales%20Dashboard.png)
 ## Introduction
 This project focuses on creating an **interactive Coffee Sales Dashboard** in Excel using **Pivot Tables, Pivot Charts, and Slicers**. The dashboard provides insights into sales trends, customer behavior, and product performance.
 
@@ -48,7 +49,6 @@ This project focuses on creating an **interactive Coffee Sales Dashboard** in Ex
    - Connected all slicers to pivot tables for **synchronized filtering**.
 
 ## Dashboard Design
-![Coffee Sales Dashboard](https://github.com/kartik981/Coffee-Sales-Excel-Dashboard/blob/1fc8523603aecbd68749b496693e21482d254904/Coffee%20Sales%20Dashboard.png)
 1. **Header Design:**
    - Added a **title bar** with a custom shape and background color.
    - Used **Calibri Bold** font for a professional look.
